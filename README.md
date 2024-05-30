@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm OlanikeCJ!
 
 - 🔭 I’m currently working on my final SQL project - EmployeesDataProject.
 - 🌱 I’m currently mastering my MySQL skills.
