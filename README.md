@@ -1,5 +1,8 @@
-## Hi there 👋, I'm Olanike!
 
+![download](https://github.com/OlanikeCJ/OlanikeCJ/assets/171288792/7084fa4a-0539-43ad-8413-a5d454b2f4e6)
+
+
+## Hi there 👋, I'm Olanike!
 
 - 🔭 I’m currently working on my final SQL project - EmployeesDataProject.
 - 🌱 I’m currently mastering my MySQL skills.
