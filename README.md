@@ -1,5 +1,5 @@
 
-![download](https://github.com/OlanikeCJ/OlanikeCJ/assets/171288792/7084fa4a-0539-43ad-8413-a5d454b2f4e6)
+![download (1)](https://github.com/OlanikeCJ/OlanikeCJ/assets/171288792/255f537b-1982-4a49-b56c-2959522c0bf3)
 
 - 🔭 I’m currently working on my final SQL project - EmployeesDataProject.
 - 🌱 I’m currently mastering my MySQL skills.
