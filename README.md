@@ -1,7 +1,7 @@
 
 ![download (1)](https://github.com/OlanikeCJ/OlanikeCJ/assets/171288792/255f537b-1982-4a49-b56c-2959522c0bf3)
 
-- 🔭 I’m currently working on my final SQL project - EmployeesDataProject.
+- 🔭 I just concluded my first MySQL project🎉Check it out => [EmployeesDataAnalysis](https://github.com/OlanikeCJ/EmployeesDataAnalysis)
 - 🌱 I’m currently mastering my MySQL skills.
 - 👯 I’m looking to collaborate on open source/ group projects.
 - 💬 Ask me about anything. I'm happy to assist.
